@@ -1,2 +1,3 @@
 # HR-Analytic-
 HR analytics is an essential aspect of human resource management that involves analyzing data to make informed decisions about employee management, recruitment, and retention. In this task, we will be performing data cleaning and visualization on a HR dataset using Power BI. 
+To get started, I downloaded the dataset and uploaded it to Power BI using the "Get Data" option. I then utilized the "Transform" option to check for any null values in the dataset. Power Query Editor can be used to clean and transform the data, making it ready for analysis. Once the data is clean, the "Modeling" and "Visualizations" tabs in Power BI can be used to create the necessary charts and graphs.
